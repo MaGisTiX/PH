@@ -9,7 +9,9 @@ Základní sprite ze kterého jsou vybrány různé části, které tvoří mapu
 Pro budoucí vylepšení použiji Pixel Studio nebo Gimp.
 32x32 px, PC.
 # Zvuky
+Audacity. (zvuky bych si chtěl nahrát a vytvořit svoje).
 # Hudba
+FL studio.
 # Godot
 # Propagace
 # Finální hra
